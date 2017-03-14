@@ -40,4 +40,4 @@ HEADERS  += \
             QNodeViewCanvas.h \
             Example.h
 
-cache()
+#cache()

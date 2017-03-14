@@ -23,6 +23,7 @@
 
 #include <QObject>
 
+class QPoint;
 class QPointF;
 class QGraphicsScene;
 class QGraphicsItem;

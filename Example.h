@@ -22,8 +22,10 @@
 #pragma once
 
 #include <QMainWindow>
-#include <QtWidgets>
+//#include <QtWidgets>
 
+class QGraphicsView;
+class QGraphicsScene;
 class QNodeViewEditor;
 
 class ExampleMainWindow : public QMainWindow

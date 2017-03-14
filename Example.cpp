@@ -19,7 +19,13 @@
   @date    January 19, 2014
 */
 
-#include <QGuiApplication>
+//#include <QGuiApplication>
+#include <QAction>
+#include <QApplication>
+#include <QMenuBar>
+#include <QPoint>
+#include <QWidget>
+#include <QDockWidget>
 #include <QGraphicsScene>
 #include <QFileDialog>
 
