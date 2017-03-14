@@ -21,6 +21,7 @@
 
 #include <QNodeViewCanvas.h>
 #include <QVarLengthArray>
+#include <QWheelEvent>
 
 QNodeViewCanvas::QNodeViewCanvas(QGraphicsScene* scene, QWidget* parent)
 : QGraphicsView(scene, parent)

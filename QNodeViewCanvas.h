@@ -22,7 +22,7 @@
 #pragma once
 
 #include <QGraphicsView>
-#include <QtWidgets>
+//#include <QtWidgets>
 
 class QNodeViewCanvas : public QGraphicsView
 {
